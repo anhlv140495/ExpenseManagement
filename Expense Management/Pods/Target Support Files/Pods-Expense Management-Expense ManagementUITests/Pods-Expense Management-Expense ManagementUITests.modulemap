@@ -1,0 +1,6 @@
+framework module Pods_Expense_Management_Expense_ManagementUITests {
+  umbrella header "Pods-Expense Management-Expense ManagementUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
